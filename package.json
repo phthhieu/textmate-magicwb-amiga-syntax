@@ -1,7 +1,7 @@
 {
   "name": "textmate-magicwb-amiga-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Textmate magicwb-amiga theme for Atom",
   "keywords": [
     "syntax",
@@ -15,4 +15,3 @@
     "atom": ">=1.0.0 <2.0.0"
   }
 }
-
